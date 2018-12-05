@@ -99,3 +99,13 @@
 .button-block {
     display: flex;
 }
+
+.downloadButton {
+    display: inline-flex;
+    text-align: center;
+    color: transparent;
+}
+
+.downloadButton a {
+    color: transparent;
+}
